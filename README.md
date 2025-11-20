@@ -1,5 +1,5 @@
 ---
-cover: .gitbook/assets/banner_gitbook.png
+cover: .gitbook/assets/gitbook_1990x480.png
 coverY: 0
 ---
 
