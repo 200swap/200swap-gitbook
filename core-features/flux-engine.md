@@ -27,4 +27,4 @@ Use cases of Flux:
 <figure><img src="../.gitbook/assets/Screenshot 2025-11-21 at 14.47.48.png" alt=""><figcaption></figcaption></figure>
 
 * You earn 20% Flux from your direct referrals.
-* You earn 3% Flux from their referrals too.
+* You earn 5% Flux from their referrals too.
