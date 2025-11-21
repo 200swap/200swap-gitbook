@@ -12,9 +12,9 @@
 * [Flux Engine](core-features/flux-engine.md)
 * [Trading Fee](core-features/trading-fee.md)
 
-## TWO Token
+## $TWO Token
 
-* [Tokenomics](two-token/tokenomics.md)
+* [Tokenomics](usdtwo-token/tokenomics.md)
 
 ## Ecosystem & Partnerships
 

@@ -14,13 +14,13 @@ Flux is the main fuel of the Flux Engine.
 
 Use cases of Flux:
 
-* Receive the upcoming TWO airdrop
-* Will be converted to TWO and used for CASHBACK
+* Receive the upcoming $TWO airdrop
+* Will be converted to $TWO and used for CASHBACK
 
 ## Rules
 
 * You need a reference code to join.
-* Swaps between MON and WMON don’t count for Flux rewards.
+* Swaps between $MON and $WMON don’t count for Flux rewards.
 
 ## Referral System
 
