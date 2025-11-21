@@ -8,7 +8,13 @@
 
 ## Core Features
 
-* [Swap to Cashback](core-features/swap-to-cashback.md)
+* [Swap](core-features/swap.md)
+* [Flux Engine](core-features/flux-engine.md)
+* [Trading Fee](core-features/trading-fee.md)
+
+## TWO Token
+
+* [Tokenomics](two-token/tokenomics.md)
 
 ## Ecosystem & Partnerships
 
