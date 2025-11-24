@@ -8,14 +8,13 @@ Flux Engine is a CASHBACK value system for 200Swap users, where the more volume 
 1 dollar swapped = 1 flux
 {% endhint %}
 
-## FLUX
+## Flux
 
 Flux is the main fuel of the Flux Engine.
 
 Use cases of Flux:
 
-* Receive the upcoming $TWO airdrop
-* Will be converted to $TWO and used for CASHBACK
+* Will be converted to our govenance token and used for CASHBACK
 
 ## Rules
 
