@@ -1,8 +1,12 @@
 ---
-description: 2S token launched via Clanker with transparent information
+description: 2S token will be launched via Clanker with transparent information.
 ---
 
 # 2S is Clanker Token
+
+{% hint style="warning" %}
+PLEASE BE AWARE: WE HAVE NO TOKEN NOW
+{% endhint %}
 
 <figure><img src="../.gitbook/assets/square_1000x1000 (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
@@ -26,3 +30,4 @@ description: 2S token launched via Clanker with transparent information
 * 50% to Flux Vault **all swapped to 2S token**, used to distribute to [Flux Engine](../core-features/flux-engine.md) every week.
 
 <figure><img src="../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>
+
