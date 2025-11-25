@@ -12,9 +12,9 @@
 * [Flux Engine](core-features/flux-engine.md)
 * [Trading Fee](core-features/trading-fee.md)
 
-## $TWO Token
+## 2S Token
 
-* [Tokenomics](usdtwo-token/tokenomics.md)
+* [2S is Clanker Token](2s-token/2s-is-clanker-token.md)
 
 ## Ecosystem & Partnerships
 
@@ -28,4 +28,4 @@
 
 ## Join the Community
 
-* [Socials](join-the-community/socials.md)
+* [One Page Information](join-the-community/one-page-information.md)
