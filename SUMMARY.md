@@ -1,10 +1,10 @@
 # Table of contents
 
-* [Welcome & Overview](README.md)
+* [Business Model](README.md)
 
 ## Getting Started
 
-* [How to Connect](getting-started/how-to-connect.md)
+* [How to use](getting-started/how-to-use.md)
 
 ## Core Features
 
@@ -19,7 +19,7 @@
 ## Ecosystem & Partnerships
 
 * [Our Partners](ecosystem-and-partnerships/our-partners.md)
-* [Brandings](ecosystem-and-partnerships/brandings.md)
+* [Branding](ecosystem-and-partnerships/branding.md)
 
 ## Legal & Disclaimers
 

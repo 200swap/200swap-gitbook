@@ -6,7 +6,7 @@ cover: .gitbook/assets/gitbook_1990x480.png
 coverY: 0
 ---
 
-# Welcome & Overview
+# Business Model
 
 {% hint style="success" %}
 **RyuHara | 200Swap Dev:**
@@ -14,5 +14,5 @@ coverY: 0
 _"I'm here to build a simple DeFi product on top Clanker ecosystem, with a strong community vibe and real **CASHBACK** for users. That's our main business"._
 {% endhint %}
 
-## Business Model
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 

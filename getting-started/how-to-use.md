@@ -1,0 +1,3 @@
+# How to use
+
+<table><thead><tr><th width="95.04296875">No</th><th width="212.921875">Guide</th><th>Link</th></tr></thead><tbody><tr><td>1 </td><td>Connect to Monad</td><td><a href="https://chainlist.org/?search=monad">https://chainlist.org/?search=monad</a></td></tr><tr><td>2</td><td>Bridge assets to Monad</td><td><a href="https://monadbridge.com/">https://monadbridge.com/</a></td></tr><tr><td>3</td><td>Join Flux Engine</td><td><a href="https://www.200swap.xyz/leaderboard">https://www.200swap.xyz/leaderboard</a> <br>Get ref code in our social channels: X, Telegram, Farcaster.</td></tr><tr><td>4</td><td>Swap</td><td><a href="https://www.200swap.xyz">https://www.200swap.xyz</a> <br>Flux and 2S will be distributed automatically</td></tr></tbody></table>
