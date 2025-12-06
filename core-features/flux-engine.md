@@ -2,7 +2,7 @@
 
 ## Overview
 
-Flux Engine is a CASHBACK value system for 200Swap users, where the more volume you swap, the more **FLUX** you earn.&#x20;
+Flux Engine is a CASHBACK value system for 200Swap users, where the more volume you swap, the more **flux** you earn.&#x20;
 
 {% hint style="info" %}
 1 dollar swapped = 1 flux
@@ -11,6 +11,10 @@ Flux Engine is a CASHBACK value system for 200Swap users, where the more volume 
 ## Flux
 
 Flux is the main fuel of the Flux Engine.
+
+{% hint style="info" %}
+Flux is not a token, flux is the reward unit of 200Swap Flux Engine
+{% endhint %}
 
 Use cases of Flux:
 
